@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAf562a8yaUfWPfh3awVFSw5KiO85w0tLs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>169561336621</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kreativhaus77.i-forgot-the-groceries</string>
+	<key>PROJECT_ID</key>
+	<string>i-forgot-the-groceries</string>
+	<key>STORAGE_BUCKET</key>
+	<string>i-forgot-the-groceries.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:169561336621:ios:49808f3d3ccaf28557c1a4</string>
+	<key>DATABASE_URL</key>
+	<string>https://i-forgot-the-groceries-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
